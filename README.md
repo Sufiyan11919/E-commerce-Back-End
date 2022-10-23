@@ -10,6 +10,8 @@
 ## Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/Sufiyan11919/E-commerce-Back-End/main/screenshots/Screenshot%20(209).png)
+
+
 ![App Screenshot](https://raw.githubusercontent.com/Sufiyan11919/E-commerce-Back-End/main/screenshots/Screenshot%20(210).png)
 
 
@@ -17,10 +19,10 @@
 API routes tested using [Thunder Client Extension](https://www.thunderclient.com/).
 
 ## Walkthrough Videos for Initialization and Product Routes
-[Video 1](https://drive.google.com/file/d/1B4FVhYQ4OBaDz6tc6358dkf-9-z3rq5j/view)
+[Video 1](https://drive.google.com/file/d/1B4FVhYQ4OBaDz6tc6358dkf-9-z3rq5j/view) https://drive.google.com/file/d/1B4FVhYQ4OBaDz6tc6358dkf-9-z3rq5j/view
 
 ## Walkthrough Videos for Tag Routes
-[Video 1](https://drive.google.com/file/d/1npSgSL0O7qHozo68RRCqdboTZ5GKZWw1/view)
+[Video 2](https://drive.google.com/file/d/1npSgSL0O7qHozo68RRCqdboTZ5GKZWw1/view) https://drive.google.com/file/d/1npSgSL0O7qHozo68RRCqdboTZ5GKZWw1/view
 
 ## Acknowledgements
 - Modules of UCB bootcamp
