@@ -1,12 +1,26 @@
-# E-commerce-Back-End
-- Object-Relational Mapping (ORM)
+## E-commerce-Back-End
+- Object-Relational Mapping (ORM) e commerce backend using SQL workbench, MySQL, Node.js
 
 
-# video link for Intialization and Product Routes
-- https://drive.google.com/file/d/1B4FVhYQ4OBaDz6tc6358dkf-9-z3rq5j/view
+## Tech Stack
 
-# video link for Tags
-- https://drive.google.com/file/d/1npSgSL0O7qHozo68RRCqdboTZ5GKZWw1/view
+**Server:** Node.js, SQL workbench, Thunder client, Sequelize, SQL and Javascript
 
-https://raw.githubusercontent.com/Sufiyan11919/E-commerce-Back-End/main/screenshots/Screenshot%20(209).png
-https://raw.githubusercontent.com/Sufiyan11919/E-commerce-Back-End/main/screenshots/Screenshot%20(210).png
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/Sufiyan11919/E-commerce-Back-End/main/screenshots/Screenshot%20(209).png)
+![App Screenshot](https://raw.githubusercontent.com/Sufiyan11919/E-commerce-Back-End/main/screenshots/Screenshot%20(210).png)
+
+
+## Testing
+API routes tested using [Thunder Client Extension](https://www.thunderclient.com/).
+
+## Walkthrough Videos for Initialization and Product Routes
+[Video 1](https://drive.google.com/file/d/1B4FVhYQ4OBaDz6tc6358dkf-9-z3rq5j/view)
+
+## Walkthrough Videos for Tag Routes
+[Video 1](https://drive.google.com/file/d/1npSgSL0O7qHozo68RRCqdboTZ5GKZWw1/view)
+
+## Acknowledgements
+- Modules of UCB bootcamp
