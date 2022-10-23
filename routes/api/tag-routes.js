@@ -9,9 +9,10 @@ router.get('/', (req, res) => {
     attributes: ['id', 'tag_name'],
     include: {  
       model: Product,
+      as: 'products'
     }
   })
-  .then(data => res.json(data))
+  .then(dbTagData => res.json(dbTagData))
   .catch(err => {
     console.log(err);
     res.status(500).json(err);
@@ -27,7 +28,7 @@ router.get('/:id', (req, res) => {
     },
     include: {
       model: Product,
-      as: 'products'
+      attributes: ['id', 'product_name', 'price', 'stock', 'category_id']
     }
   })
   .then(data => {
